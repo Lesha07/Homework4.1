@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/bin/Debug/net8.0/Homework4.1
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/bin/Debug/net8.0/Homework4.1.deps.json
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/bin/Debug/net8.0/Homework4.1.runtimeconfig.json
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/bin/Debug/net8.0/Homework4.1.dll
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/bin/Debug/net8.0/Homework4.1.pdb
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.AssemblyInfo.cs
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.dll
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/refint/Homework4.1.dll
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.pdb
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/Homework4.1.genruntimeconfig.cache
+/Users/macbook/Desktop/Hillel/Homework4.1/Homework4.1/obj/Debug/net8.0/ref/Homework4.1.dll
